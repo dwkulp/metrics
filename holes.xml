@@ -1,0 +1,9 @@
+<ROSETTASCRIPTS>
+<FILTERS>
+  <Holes name="full_holes" threshold="1.8" confidence="0"/>
+</FILTERS>
+<PROTOCOLS>
+  <Add filter="full_holes" />
+</PROTOCOLS>
+
+</ROSETTASCRIPTS>
